@@ -177,7 +177,7 @@ h2:after {
 /*           HEADER            */
 /*---------------------------- */
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero1.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -366,7 +366,7 @@ header {
 /*           KONTAKT           */
 /*---------------------------- */
 .section-contact {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero1.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
