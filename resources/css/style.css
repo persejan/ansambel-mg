@@ -177,7 +177,7 @@ h2:after {
 /*           HEADER            */
 /*---------------------------- */
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://previews.dropbox.com/p/thumb/AAafK-L_lQAH-9NV__1uk1pEkqU2l-2s0hzrqlpilS4xmQ8fvPqmiQ6LPe88u_zljv5D2xxkicntuzMBVjfwy3kvcDexmaqHKeVNI4Qb7VlZAv-_yAkKIW3IXVBF_HWkw4SEQUyPrN_ercVn8dlcSpJmrR5-tNOXeMG2jgKTXSi4K0WOmUt_H1_DSAkyJutKMVJYmPuAtwOdf48LuU1iIe8HHrBlNbsOccqeQXkFd-TfUC92Ly5qGgdPsrKQ5AeLVMj7dfb7X63zJjkWNsH5my4dPJJkgJMPeYEUVayesl2IUEj_zh0fv7w6mx9rtVUWJyJuoQeugyr58xeEIqcd48FSE0aa4oMT5wS47zO59ufW40cveoMfDSkqR5QqCbIzGKR9_8LJjEx_KTFZnIT9ZnfD/p.png?size=2048x1536&size_mode=3");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -366,7 +366,7 @@ header {
 /*           KONTAKT           */
 /*---------------------------- */
 .section-contact {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/hero1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://previews.dropbox.com/p/thumb/AAafK-L_lQAH-9NV__1uk1pEkqU2l-2s0hzrqlpilS4xmQ8fvPqmiQ6LPe88u_zljv5D2xxkicntuzMBVjfwy3kvcDexmaqHKeVNI4Qb7VlZAv-_yAkKIW3IXVBF_HWkw4SEQUyPrN_ercVn8dlcSpJmrR5-tNOXeMG2jgKTXSi4K0WOmUt_H1_DSAkyJutKMVJYmPuAtwOdf48LuU1iIe8HHrBlNbsOccqeQXkFd-TfUC92Ly5qGgdPsrKQ5AeLVMj7dfb7X63zJjkWNsH5my4dPJJkgJMPeYEUVayesl2IUEj_zh0fv7w6mx9rtVUWJyJuoQeugyr58xeEIqcd48FSE0aa4oMT5wS47zO59ufW40cveoMfDSkqR5QqCbIzGKR9_8LJjEx_KTFZnIT9ZnfD/p.png?size=2048x1536&size_mode=3");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
